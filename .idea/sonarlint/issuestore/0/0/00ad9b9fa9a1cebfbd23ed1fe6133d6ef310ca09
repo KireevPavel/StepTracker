@@ -1,0 +1,15 @@
+
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ßÍûÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ôÈ§ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢ÓÖ¦ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(úÜ¤Í
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°í”Õùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ¤¼Û
+N	java:S106""9Replace this use of System.out or System.err by a logger.(½Ñ»÷
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(¼›‡Ìıÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(—— ²
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ƒ¡Ú¿øÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(´ßú©ùÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(­ÉÌøÿÿÿÿ
